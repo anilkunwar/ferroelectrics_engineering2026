@@ -1,0 +1,1 @@
+TITLE-ABS-KEY ( ( "lead-free" OR KNN OR "potassium sodium niobate" OR BNT OR "bismuth sodium titanate" OR "barium titanate" OR BaTiO3 ) AND ( ferroelectric* OR piezoelectric* ) AND ( dop* OR substitut* OR defect* OR "morphotropic phase boundary" OR MPB OR "phase boundary" OR "Curie temperature" ) )
