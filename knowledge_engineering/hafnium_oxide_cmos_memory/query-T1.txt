@@ -1,0 +1,1 @@
+TITLE-ABS-KEY ( ( "hafnium oxide" OR HfO2 OR hafnia OR HZO OR "zirconium oxide" ) AND ( ferroelectric* OR piezoelectric* ) AND ( dop* OR defect* OR vacanc* OR "wake-up" OR fatigue OR imprint OR endurance OR FeFET OR neuromorphic ) )
