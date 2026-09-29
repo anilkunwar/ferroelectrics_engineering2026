@@ -1,1 +1,7 @@
-
+TITLE-ABS-KEY ( 
+    ( ferroelectric* OR piezoelectric* OR pyroelectric* OR multiferroic* OR perovskite* OR "hafnium oxide" OR HfO2 OR hafnia OR "lead zirconate titanate" OR PZT OR "barium titanate" OR BaTiO3 OR KNN OR "bismuth sodium titanate" OR BNT ) 
+    AND 
+    ( dop* OR defect* OR vacanc* OR substitut* OR impurit* OR alloy* OR "high entropy" OR "defect engineering" OR "defect dipole" OR co-dop* OR interstitial* ) 
+    AND 
+    ( "phase boundary" OR "Curie temperature" OR "wake-up" OR fatigue OR imprint OR "energy storage" OR neuromorphic OR synap* OR memory OR FeFET OR electrocaloric OR photovoltaic OR "lead-free" OR "2D" OR "two-dimensional" OR "machine learning" OR "first principles" OR DFT )
+)
