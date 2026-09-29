@@ -1,0 +1,1 @@
+TITLE-ABS-KEY ( ( "2D" OR "two-dimensional" OR "monolayer" OR "atomically thin" OR multiferroic* ) AND ( ferroelectric* OR piezoelectric* ) AND ( dop* OR defect* OR vacanc* OR substitut* OR magnetic OR magnetoelectric ) )
